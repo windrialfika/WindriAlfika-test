@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Winews</string>
+    <string name="headline">We cover Business, Entertainment, Health, Science, Sports, Technology News.</string>
+    <string name="nav_home">HOME</string>
+    <string name="nav_profile">PROFILE</string>
+
+
+    <string name="category_business">Business</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_top_trend">Top Trending</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+
+</resources>
